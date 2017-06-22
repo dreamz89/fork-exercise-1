@@ -1,3 +1,3 @@
-console.log('Testing')
+alert('Testing')
 
 var Jo = 'Jocelyn'
